@@ -10,3 +10,5 @@
 ## Flow
 ### Inkscape
 1. Schriftart MV Boli (72px)
+   - Grossbuchstaben in 2 Zeilen
+2. Farbe zuweisen
