@@ -7,3 +7,6 @@
 | grün | 55 0 73 29 100 | cmyk|
 
 ## Druckgrößen
+## Flow
+### Inkscape
+1. Schriftart MV Boli (72px)
