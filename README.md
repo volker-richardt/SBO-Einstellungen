@@ -20,3 +20,7 @@
 8. Beide gruppieren
 9. Kopperen/Einfügen
 10. Ein Objekt 1/1 nach rechs/unten verschieben
+11. Gruppieren
+12. leeren Kasten drumherum mit ein wenig Abstand
+13. als PNG exportieren
+14. in Scribus einfügen
