@@ -24,3 +24,4 @@
 12. leeren Kasten drumherum mit ein wenig Abstand
 13. als PNG exportieren
 14. in Scribus einfügen
+15. ...
