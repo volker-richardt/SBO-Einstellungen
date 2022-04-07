@@ -7,6 +7,10 @@
 | grün | 55 0 73 29 100 | cmyk|
 
 ## Druckgrößen
+| Name| Maße| Rand| Besonderheit|
+| --- | --- |---|---|
+| Roll Up | 87 x 227 | 5 | 201 (Hilfslinie von oben) nicht bedruckbar
+
 ## Flow
 ### Inkscape
 1. Schriftart MV Boli (72px)
