@@ -3,13 +3,18 @@
 
 | | | |
 | --- | --- |---|
-| Blau | 100 50 0 50 100 | cmyk |
-| grün | 55 0 73 29 100 | cmyk|
+| Blau | 97 570 0 49 100 | cmyk |
+||#043882|Hex|
+||4 56 130|RGB|
+||||
+| grün | 57 0 74 37 100 | cmyk|
+||#45a12a|Hex|
+||69 0 74 37|RGB|
 
 ## Druckgrößen
 | Name| Maße| Rand| Besonderheit|
 | --- | --- |---|---|
-| Roll Up | 87 x 227 | 5 | 201 (Hilfslinie von oben) nicht bedruckbar
+| Roll Up | 87 x 227 | 5 | 201 (Hilfslinie von oben) nicht nutzbar
 
 ## Flow
 ### Inkscape
