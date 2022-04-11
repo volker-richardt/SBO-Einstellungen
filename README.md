@@ -14,6 +14,7 @@
 ## Schriftarten
 ### Logo
 Berlin Sans FB Dmi bold
+
 Trebuchet MS regular/bold
 
 ### Plakat
@@ -25,7 +26,7 @@ Calibri regular/bold
 | --- | --- |---|---|
 | Roll Up | 87 x 227 | 5 | 201 (Hilfslinie von oben) nicht nutzbar
 
-## Flow
+## Ablauf Plakat "Frühlingskonzert"
 ### Inkscape
 1. Schriftart MV Boli (72px)
    - Grossbuchstaben in 2 Zeilen
@@ -36,7 +37,7 @@ Calibri regular/bold
 6. Gruppieren
 7. zueinander zentrieren
 8. Beide gruppieren
-9. Kopperen/Einfügen
+9. Kopieren/Einfügen
 10. Ein Objekt 1/1 nach rechs/unten verschieben
 11. Gruppieren
 12. leeren Kasten drumherum mit ein wenig Abstand
