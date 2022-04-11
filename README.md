@@ -11,6 +11,15 @@
 ||#45a12a|Hex|
 ||69 0 74 37|RGB|
 
+## Schriftarten
+### Logo
+Berlin Sans FB Dmi bold
+Trebuchet MS regular/bold
+
+### Plakat
+Calibri regular/bold
+
+
 ## Druckgrößen
 | Name| Maße| Rand| Besonderheit|
 | --- | --- |---|---|
