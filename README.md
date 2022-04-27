@@ -25,6 +25,7 @@ Calibri regular/bold
 | Name| Maße| Rand| Besonderheit|
 | --- | --- |---|---|
 | Roll Up | 87 x 227 | 5 | 201 (Hilfslinie von oben) nicht nutzbar
+| Flyer A6 hochformat |10,7x15,0|5||
 
 ## Ablauf Plakat "Frühlingskonzert"
 ### Inkscape
