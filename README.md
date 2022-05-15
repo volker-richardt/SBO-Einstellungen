@@ -9,16 +9,21 @@
 ||||
 | grün | 57 0 74 37 100 | cmyk|
 ||#45a12a|Hex|
-||69 0 74 37|RGB|
+||69 0 74 37|RGB|<>
+
+### Kontur (weiss)
+- 3,260mm
+- 0,00 Strichlinie
+- abgerundet, runde Ende, 2. Anordnung
 
 ## Schriftarten
 ### Logo
-Berlin Sans FB Dmi bold
+- Berlin Sans FB Dmi bold (S + B)
+- Trebuchet MS regular/bold
 
-Trebuchet MS regular/bold
-
-### Plakat
+### Plakate, Flyer, Banner...
 Calibri regular/bold
+
 
 
 ## Druckgrößen
@@ -26,6 +31,7 @@ Calibri regular/bold
 | --- | --- |---|---|
 | Roll Up | 87 x 227 | 5 | 201 (Hilfslinie von oben) nicht nutzbar
 | Flyer A6 hochformat |10,7x15,0|5||
+| Banner 4x1m|4020 x 1020 mm|10||
 
 ## Ablauf Plakat "Frühlingskonzert"
 ### Inkscape
